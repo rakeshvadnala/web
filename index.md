@@ -142,7 +142,10 @@
 <span style="color: red;"><b>Contact :</b></span><br />
 <br />
 <br />
-<a href="http://www.facebook.com/rakeshvadnala"><img border="0" src="https://4.bp.blogspot.com/-9LI39Lj3Ij0/XXpHi23k6LI/AAAAAAABGuk/HRPRXZ8dxNYBI15SB0LWRdr9Ao4DyYKWQCK4BGAYYCw/s400/fb%2Bicon.JPG" style="text-align: center;" /></a><span style="text-align: center;">&nbsp;</span><a href="https://www.instagram.com/rakeshvadnala/"><img border="0" src="https://3.bp.blogspot.com/-AO8MbhfRuzc/XXpHsappZdI/AAAAAAABGus/gBBsnihvUjgGX7qUc0YAr_GHAk3fxv9ZgCK4BGAYYCw/s400/instagram%2Bicon.JPG" /></a><a href="https://www.linkedin.com/in/rakesh-vadnala-6b2331ab/"><img border="0" src="https://2.bp.blogspot.com/-BwrL39vko6Y/XXpHtUeQP_I/AAAAAAABGu0/U3Nm8AoOmYsVDbRfJLrElCmCjiQ0CGmhgCK4BGAYYCw/s400/linkedin.JPG" /></a><a href="https://api.whatsapp.com/send?phone=+918106060904&amp;text=Hello%20i%27m%20visit%20your%20blog"><img border="0" src="https://1.bp.blogspot.com/-IcWWghP9Uas/XXpHuQnP--I/AAAAAAABGu8/eJTN3JpVSx0f9nW_v09sNOY4io0l1rcLACK4BGAYYCw/s400/whatsapp%2Bicon.JPG" /></a></div>
+<a href="http://www.facebook.com/rakeshvadnala"><img border="0" src="https://4.bp.blogspot.com/-9LI39Lj3Ij0/XXpHi23k6LI/AAAAAAABGuk/HRPRXZ8dxNYBI15SB0LWRdr9Ao4DyYKWQCK4BGAYYCw/s400/fb%2Bicon.JPG" style="text-align: center;" /></a><span style="text-align: center;">&nbsp;</span>
+<a href="https://www.instagram.com/rakeshvadnala/"><img border="0" src="https://3.bp.blogspot.com/-AO8MbhfRuzc/XXpHsappZdI/AAAAAAABGus/gBBsnihvUjgGX7qUc0YAr_GHAk3fxv9ZgCK4BGAYYCw/s400/instagram%2Bicon.JPG" /></a>
+ <a href="https://www.linkedin.com/in/rakeshvadnala/"><img border="0" src="https://2.bp.blogspot.com/-BwrL39vko6Y/XXpHtUeQP_I/AAAAAAABGu0/U3Nm8AoOmYsVDbRfJLrElCmCjiQ0CGmhgCK4BGAYYCw/s400/linkedin.JPG" /></a>
+<a href="https://api.whatsapp.com/send?phone=+9170134833784&amp;text=Hello%20i%27m%20visit%20your%20blog"><img border="0" src="https://1.bp.blogspot.com/-IcWWghP9Uas/XXpHuQnP--I/AAAAAAABGu8/eJTN3JpVSx0f9nW_v09sNOY4io0l1rcLACK4BGAYYCw/s400/whatsapp%2Bicon.JPG" /></a></div>
 </div>
 <br />
 <br />
