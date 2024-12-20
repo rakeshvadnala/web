@@ -1,1 +1,1 @@
-# web
+# Sample Fireworks project
